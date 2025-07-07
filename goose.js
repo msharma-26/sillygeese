@@ -1,5 +1,5 @@
   // Set your target date here
-    const targetDate = new Date("2025-08-16T23:59:59").getTime();
+    const targetDate = new Date("2025-09-17T23:59:59").getTime();
 
     const timerElement = document.getElementById("timer");
 
