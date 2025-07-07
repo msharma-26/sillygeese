@@ -1,9 +1,9 @@
 body{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blueviolet;
 }
 
 #timer {
     font-size: 60px;
     font-weight: bold;
-    background-color: plum;
 }
